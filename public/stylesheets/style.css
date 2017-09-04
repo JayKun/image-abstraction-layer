@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+h2{
+  color: red;
+}
+
+code{
+  color: red;
+  background-color: #fff;
+}
